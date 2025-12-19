@@ -1,2 +1,0 @@
-print("quant")
-print("zoro")
